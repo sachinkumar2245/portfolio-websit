@@ -117,7 +117,7 @@ src/
 
 Feel free to reach out if you have any questions or suggestions:
 
-- **Email**: john.doe@email.com
+- **Email**: sachinkumm3570@gmail.com
 - **LinkedIn**: [linkedin.com/in/sachinkumar](https://www.linkedin.com/in/sachin-kumar-791b41263/)
 - **GitHub**: [github.com/sachinkumar](https://github.com/sachinkumar2245)
 
