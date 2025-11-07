@@ -5,7 +5,7 @@ const Education = () => {
       degree: "Bachelor of Technology in Chemical Engineering",
       institution: "Harcourt Butler Technical University",
       location: "Kanput, Uttar Pradesh",
-      score: "8.17/10",
+      score: "6.17/10",
       description: "I hold a degree in Chemical Engineering, where I studied core subjects like thermodynamics, reaction engineering, fluid mechanics, and process design. My coursework and projects helped me build strong analytical, problem-solving, and process optimization skills.",
       achievements: [
         "Chemcon 2022",
